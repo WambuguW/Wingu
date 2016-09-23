@@ -1,0 +1,9 @@
+{
+	"name": "Core",
+	"slug": "core",
+	"namespace": "Core",
+	"version": "1.0",
+	"author": "Wilson Wambugu",
+	"license": "MIT",
+	"description": "Foundation on which other modules are based"
+}

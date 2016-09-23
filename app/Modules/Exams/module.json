@@ -1,0 +1,9 @@
+{
+	"name": "Exams",
+	"slug": "exams",
+	"namespace": "Exams",
+	"version": "1.0",
+	"author": "Wilson Wambugu",
+	"license": "MIT",
+	"description": "Examinations records module"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Finance",
+	"slug": "finance",
+	"namespace": "Finance",
+	"version": "1.0",
+	"author": "Wilson Wambugu",
+	"license": "MIT",
+	"description": "Finance details module"
+}
